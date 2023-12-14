@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecialButton", "SpecialButton\SpecialButton.csproj", "{8A07CE86-FFC4-4BC3-A6CC-3E1236AC445B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecialBurronFotm", "SpecialBurronFotm\SpecialBurronFotm.csproj", "{D89DF1C0-1EB3-4515-AC1A-C7BF82A626B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A07CE86-FFC4-4BC3-A6CC-3E1236AC445B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A07CE86-FFC4-4BC3-A6CC-3E1236AC445B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A07CE86-FFC4-4BC3-A6CC-3E1236AC445B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A07CE86-FFC4-4BC3-A6CC-3E1236AC445B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D89DF1C0-1EB3-4515-AC1A-C7BF82A626B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D89DF1C0-1EB3-4515-AC1A-C7BF82A626B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D89DF1C0-1EB3-4515-AC1A-C7BF82A626B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D89DF1C0-1EB3-4515-AC1A-C7BF82A626B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CA02D94-FCCB-4F9F-BCFC-A5F0DF6E7564}
+	EndGlobalSection
+EndGlobal
